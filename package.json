@@ -1,0 +1,25 @@
+{
+  "name": "swatch-library",
+  "version": "1.0.0",
+  "description": "this is project related maintaining and creating fabric swatch database ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "swatch",
+    "libarary"
+  ],
+  "author": "Apurv",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta2",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}
